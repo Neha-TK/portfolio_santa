@@ -34,7 +34,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
-    /* background-image: url(santa1.jpg); */
 }
 
 body{
@@ -76,18 +75,15 @@ body{
 
 .home-content{
     width: 50%;
-    /* margin-top: 8%; */
     padding: 15% 2% 5% 10%;
 }
 .home-content h1{
     font-size: 55px;
 }
 
-.image{
-   
-}
 
-/* CSS */
+
+/* Button CSS */
 .button-56 {
   align-items: center;
   background-color: #fee6e3;
@@ -152,14 +148,12 @@ body{
 .about-content{
   background-color: #fee6e3;
   padding: 8% 2%;
-  /* justify-content: space-evenly; */
   text-align: justify;
 
   
 }
 
-.biography{
-}
+
 
 .biography h2{
   text-align: center;
@@ -181,33 +175,6 @@ body{
 .main-skill h3,.biography h3{
 text-align: center;
 }
-
-/* 
-
-#features {
-  position: relative;
-}
-
-.feature-title {
-  font-size: 1.5rem;
-}
-
-.feature-box {
-  padding: 4.5%;
-}
-
-.icon {
-  color: #ef8172;
-  margin-bottom: 1rem;
-}
-
-.icon:hover {
-  color: #ff4c68;
-}
-
-.container-fluid{
-  padding: 7% 15%;
-} */
 
 
 .svg-img{
@@ -232,74 +199,10 @@ text-align: center;
   color: #440707;
 }
 
-.skill-div .svg-img{
- 
-}
 
 
 
 
-
-/* 
-.skill-row{
-  margin: 100px auto 100px auto;
-  text-align: left;
-  width: 50%;
-}
-
-.mobile{
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.exp{
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-} */
-
-
-
-
-
-/* PROJECTS SECTION */
-/* 
-#projects {
-  position: relative;
-}
-
-.color-container {
-  border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
-}
-
-.project-img {
-  border-radius: 2rem;
-  width: 90%;
-  height: 90%;
-}
-
-.project-title {
-  margin: 1rem;
-  color: black;
-}
-
-.project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
-}
-section {
-  padding-top: 4vh;
-  height: 96vh;
-  margin: 0 10rem;
-  box-sizing: border-box;
-  min-height: fit-content;
-}
-
-.section-container {
-  display: flex;
-} */
 
 
 
